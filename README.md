@@ -1,6 +1,6 @@
 # matias2018
 ## start
-```ts dif
+```dif
 - const firstName = "Pedro"
 + const firstName = "Matias"
 ```
