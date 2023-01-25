@@ -5,7 +5,7 @@
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=matias2018&show_icons=true&theme=tokyonight"/>
 
 <details>
- Stats
+ More about the languages I use:
   <summarize>
     <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matias2018&show_icons=true&theme=tokyonight"/>
   </summarize>
