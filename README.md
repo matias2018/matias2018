@@ -4,11 +4,11 @@
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=matias2018&show_icons=true&theme=tokyonight"/>
 
-More about the languages I use:
 <details>
-  <summarize>
-    <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matias2018&show_icons=true&theme=tokyonight"/>
-  </summarize>
+  <summary>
+    More about the languages I use:
+  </summary>
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matias2018&show_icons=true&theme=tokyonight"/>
 </details>
 
 
