@@ -18,3 +18,7 @@
 
 <!--END_SECTION:activity-->
 
+<!--START_SECTION:metrics-->
+
+<!--END_SECTION:metrics-->
+
