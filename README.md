@@ -4,6 +4,8 @@ I strive to create visually appealing, high-performing, and accessibility-compli
 
 #### Some stats because it looks cool
 
+[Learn mor about me](https://pedromatias.dev/)
+
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=matias2018&show_icons=true&theme=tokyonight"/>
 
 <details>
