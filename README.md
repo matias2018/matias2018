@@ -1,3 +1,4 @@
+<base target="_blank">
 # Hi! Call me Matias 
 ### I am a developer and I like building stuff for the web.
 I strive to create visually appealing, high-performing, and accessibility-compliant websites.
