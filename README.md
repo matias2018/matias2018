@@ -4,6 +4,8 @@
 I strive to create visually appealing, high-performing, and accessibility-compliant websites.
 This way I'm building experiences for the next generation of consumer facing companies.
 
+<br >
+
 #### Some stats because it looks cool
 
 <a href="https://pedromatias.dev" target="_blank">Learn more about me here</a>
