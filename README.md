@@ -1,6 +1,6 @@
 # Hi! My name is Pedro Matias 
 ### I am a developer and I like building stuff for the web.
-I strive to create visually appealing, high-performing, and accessibility-compliant websites.
+I strive to create visually appealing, high-performing, and accessibility-compliant websites.<br >
 In short, I'm building experiences for the next generation of consumer facing companies.
 
 <br >
