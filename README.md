@@ -29,6 +29,6 @@ In short, I'm building experiences for the next generation of consumer facing co
 
 <!--END_SECTION:metrics-->
 
-#### Right now I am a developer working at Santa Casa da Misericordia de Lisboa.
+#### Right now I'm a principal developer at Santa Casa da Misericordia de Lisboa.
 Take a look ate our website <a href="https://scml.pt" target="_blank">SCML</a>
 
