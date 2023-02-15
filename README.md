@@ -9,9 +9,9 @@ In short, I'm building experiences for the next generation of consumer facing co
 
 <a href="https://pedromatias.dev" target="_blank">Learn more about me here</a>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=matias2018&show_icons=true&theme=tokyonight"/>
+<!-- img width="48%" src="https://github-readme-stats.vercel.app/api?username=matias2018&show_icons=true&theme=tokyonight"/>
 
-<!-- details>
+<details>
   <summary>
     More about the languages I use:
   </summary>
