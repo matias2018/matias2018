@@ -1,5 +1,6 @@
 # Hi! My name is Pedro Matias 
-### I am a developer and I like building stuff for the web.
+## I am a developer and I like building stuff.
+### I'm a team player and I like to tackle complex challenges 
 I strive to create visually appealing, high-performing, and accessibility-compliant websites.<br >
 In short, I'm building experiences for the next generation of consumer facing companies.
 
