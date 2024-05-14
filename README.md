@@ -5,8 +5,6 @@ In short, I'm building experiences for the next generation of consumer facing co
 
 <br >
 
-#### Some stats because it looks cool
-
 <a href="https://pedromatias.dev" target="_blank">Learn more about me here</a>
 
 <!-- img width="48%" src="https://github-readme-stats.vercel.app/api?username=matias2018&show_icons=true&theme=tokyonight"/>
