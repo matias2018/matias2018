@@ -6,7 +6,7 @@ My goal is to help the next generation of consumer-focused companies connect wit
 
 <br >
 
-<a href="https://pedromatias.dev" target="_blank">Learn more about me here</a>
+<a href="https://pedromatias.dev" target="_blank">Learn more about me on my personal page https://pedromatias.dev</a>
 
 <!-- img width="48%" src="https://github-readme-stats.vercel.app/api?username=matias2018&show_icons=true&theme=tokyonight"/>
 
