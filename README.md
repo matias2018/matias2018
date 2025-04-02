@@ -1,7 +1,8 @@
 # Hi! My name is Pedro Matias 
-### I am a developer and I like building stuff for the web.
-I strive to create visually appealing, high-performing, and accessibility-compliant websites.<br >
-In short, I'm building experiences for the next generation of consumer facing companies.
+### I’m a web developer focused on building innovative and impactful digital experiences.
+I create visually compelling, high-performance, and accessibility-friendly websites, web applications, and tools that prioritize both user experience and security.
+
+My goal is to help the next generation of consumer-focused companies connect with their audiences through thoughtful design, robust functionality, and cutting-edge technology.
 
 <br >
 
