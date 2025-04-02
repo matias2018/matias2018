@@ -18,8 +18,6 @@ My goal is to help the next generation of consumer-focused companies connect wit
 </details -->
 
 
-*Notice: I also have work on many other repos under other users names because most companies I work for have their own repos*
-
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
