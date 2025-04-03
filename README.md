@@ -26,6 +26,5 @@ My goal is to help the next generation of consumer-focused companies connect wit
 
 <!--END_SECTION:metrics-->
 
-#### At the moment I'm a senior developer at Santa Casa da Misericordia de Lisboa.
-Take a look ate our website <a href="https://scml.pt" target="_blank">SCML</a>
+
 
